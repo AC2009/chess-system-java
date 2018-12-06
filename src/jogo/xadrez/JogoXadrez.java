@@ -1,12 +1,15 @@
 
 package jogo.xadrez;
 
+import boardgame.Position;
+
 
 public class JogoXadrez {
 
    
     public static void main(String[] args) {
-        System.out.println("Jogo de xadrez");
+        Position pos = new Position(3, 5);
+        System.out.println(pos);
     }
     
 }
