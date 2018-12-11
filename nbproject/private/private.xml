@@ -3,13 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/jogo/xadrez/JogoXadrez.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/jogo/xadrez/UI.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/boardgame/Piece.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/boardgame/Board.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/ChessMatch.java</file>
-            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/Color.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/boardgame/Position.java</file>
         </group>
     </open-files>
 </project-private>
