@@ -20,7 +20,7 @@ public class JogoXadrez {
         ChessMatch chessMatch = new ChessMatch();
         List<ChessPiece> captured = new ArrayList<>();
         
-        while (true){
+        while (!chessMatch.getCheckmate()){
            try {
                 UI.clearScreen();
                 UI.printMatch(chessMatch, captured);
@@ -50,7 +50,8 @@ public class JogoXadrez {
                 System.out.println(e.getMessage());
                 sc.nextLine();
             }  
-        }
-        
+       }
+       UI.clearScreen();
+       UI.printMatch(chessMatch, captured);
    }
 }
