@@ -5,8 +5,11 @@
         <group>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/jogo/xadrez/JogoXadrez.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/pieces/Pawn.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/jogo/xadrez/UI.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/boardgame/Piece.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/pieces/Rook.java</file>
             <file>file:/C:/Users/profe/OneDrive/Documentos/NetBeansProjects/jogo-xadrez/src/chess/ChessPosition.java</file>
         </group>
     </open-files>
